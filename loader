@@ -3,6 +3,7 @@ local allowedPlaceIds = {
     [79089892790758] = "https://raw.githubusercontent.com/foekey/ST2/refs/heads/main/ST2Public.lua",
     [105612566642310] = "https://raw.githubusercontent.com/foekey/ST3/refs/heads/main/ST3Public.lua", 
     [86082995079744] = "https://raw.githubusercontent.com/foekey/ST4/refs/heads/main/ST4Public.lua",
+    [131623223084840] = "https://raw.githubusercontent.com/foekey/EscapeTsunamiForBrainrots/refs/heads/main/WaveGamePublic.lua",
     [72250771850707] = "https://raw.githubusercontent.com/foekey/IWRA/refs/heads/main/IWannaRunAwayPublic.lua",
 }
 
